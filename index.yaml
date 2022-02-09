@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hume-alerting:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-09T07:25:35.241701Z"
+    description: A Helm chart for Kubernetes
+    digest: 44c652697af822b71423b2627187d525a31fe49253f2be460bd4d6f0848f1c32
+    name: hume-alerting
+    type: application
+    urls:
+    - https://github.com/graphaware/hume-helm/releases/download/hume-alerting-0.1.0/hume-alerting-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-09T07:25:35.241714Z"
